@@ -6,7 +6,7 @@ const fontawsome_css={
     color: "rgb(43, 13, 128)",
     fontSize: "45px"
 }
-const marquee={backgroundColor:"rgb(252, 104, 67)", color:"rgb(2, 3, 112)", lineHeight:"30px"}
+
 
 const Contact=()=>
 {

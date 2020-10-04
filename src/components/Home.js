@@ -13,7 +13,7 @@ const Home=()=>
             <div className="col-lg-6 border-0 bg-light ">
 
                 <div className="card py-5 border-0 bg-light h-1 py-auto">
-                    <img src="../images/kav.jpg" className="card-img-top w-50 mx-auto rounded-circle my-5 "/>
+                    <img src="../images/kav.jpg" className="card-img-top w-50 mx-auto rounded-circle my-5 " alt="..." />
                 </div>
 
             </div>

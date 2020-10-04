@@ -2,9 +2,7 @@ import React from 'react'
 
 const h3_style={color:"rgb(155, 4, 41)"}
 const h4_style={color:"rgb(42, 114, 1)"}
-const aboutcss={
-    
-}
+
 const About=()=>
 {
     return(
