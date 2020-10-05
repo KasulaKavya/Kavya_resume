@@ -95,7 +95,7 @@ const Profile=()=>
                                             <ul>
                                                 <li>C</li>
                                                 <li>JAVA</li>
-                                                <li>PYTHON</li>
+                                                <li>PYTHON (DJANGO)</li>
                                             </ul>
                                         </li>
                                         <li> 

@@ -60,7 +60,7 @@ const About=()=>
                             <div className="card-body">
                                 <h4 style={h4_style}> Trained In : Technical Skills </h4>
                                 <ul>
-                                    <li>PYTHON</li>
+                                    <li>PYTHON (DJANGO)</li>
                                     <li>JAVA</li>
                                     <li>HTML</li>
                                     <li>CSS</li>
